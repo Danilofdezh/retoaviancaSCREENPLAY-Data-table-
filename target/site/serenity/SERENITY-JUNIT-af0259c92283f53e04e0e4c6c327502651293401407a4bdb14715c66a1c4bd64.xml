@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="1" name="booking" skipped="0" tests="1" time="25.58" timestamp="2022-09-02 04:33:48"><testcase name="successful booking"><failure message="&#10;Expected: is &quot;Numero de reserva o apellido invalido, por favor intentelo&quot;&#10;     but: was &quot;Numero de reserva o apellido invalido, por favor intentelo nuevamente&quot;" type="java.lang.AssertionError">
+Expected: is "Numero de reserva o apellido invalido, por favor intentelo"
+     but: was "Numero de reserva o apellido invalido, por favor intentelo nuevamente"</failure><system-err>
+Expected: is "Numero de reserva o apellido invalido, por favor intentelo"
+     but: was "Numero de reserva o apellido invalido, por favor intentelo nuevamente"&#13;
+com.co.avianca.stepsdefinitions.ReservaStepDefinition.successfulQuery(ReservaStepDefinition.java:51)&#13;
+✽.successful query(src/test/resources/features/reserva.feature:9)&#13;
+</system-err></testcase></testsuite>
